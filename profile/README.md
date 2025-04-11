@@ -6,7 +6,7 @@
 
 ## Low Rain Falls (VNUHCMC - US project)
 
-**Created by:** [Nhat-Hao Tran](https://github.com/tranlynhathao)
+**Created by:** [Nhat-Hao Tran-Ly](https://github.com/tranlynhathao)
 
 **Purpose:** a place to store and share source code for students of HCMUS.
 
